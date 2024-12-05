@@ -1,0 +1,6 @@
+[submodule "deps/blimp_onboard_software"]
+	path = deps/blimp_onboard_software
+	url = https://github.com/TK-A369/blimp_onboard_software.git
+[submodule "deps/blimp_comm"]
+	path = deps/blimp_comm
+	url = https://github.com/TK-A369/blimp_comm.git

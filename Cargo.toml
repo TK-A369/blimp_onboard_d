@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+blimp_onboard_software = { path = "deps/blimp_comm/deps/blimp_onboard_software" }
+blimp_comm = { path = "deps/blimp_comm" }
+tokio = { version = "1.42.0", features = ["full"] }
